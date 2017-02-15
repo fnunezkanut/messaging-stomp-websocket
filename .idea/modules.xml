@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/messaging-stomp-websocket.iml" filepath="$PROJECT_DIR$/.idea/messaging-stomp-websocket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/messaging-stomp-websocket.iml" filepath="$PROJECT_DIR$/.idea/modules/messaging-stomp-websocket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/messaging-stomp-websocket_main.iml" filepath="$PROJECT_DIR$/.idea/modules/messaging-stomp-websocket_main.iml" group="messaging-stomp-websocket" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/messaging-stomp-websocket_test.iml" filepath="$PROJECT_DIR$/.idea/modules/messaging-stomp-websocket_test.iml" group="messaging-stomp-websocket" />
     </modules>
   </component>
 </project>
